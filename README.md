@@ -15,3 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Akshatpattiwar512&show_icons=true)
+
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshatpattiwar512&theme=blue-green)
+
+
+![GitHub Contributors Image](https://contrib.rocks/image?repo=Akshatpattiwar512/Your_GitHub_Repository_Name)
+
+
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/Akshatpattiwar512)
