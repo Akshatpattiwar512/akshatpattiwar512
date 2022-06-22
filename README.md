@@ -20,7 +20,4 @@ Here are some ideas to get you started:
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshatpattiwar512&theme=blue-green)
 
 
-![GitHub Contributors Image](https://contrib.rocks/image?repo=Akshatpattiwar512/Principal-Component-Analysis)
-
-
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Akshatpattiwar512)
