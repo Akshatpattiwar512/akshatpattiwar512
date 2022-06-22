@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 ![GitHub Contributors Image](https://contrib.rocks/image?repo=Akshatpattiwar512/Your_GitHub_Repository_Name)
 
 
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/Akshatpattiwar512)
+![Profile View Counter](https://komarev.com/ghpvc/?username=Akshatpattiwar512)
