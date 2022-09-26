@@ -17,7 +17,7 @@ Currently working on Data Science Projects<br>Learning Cloud Computing, Data Sci
 To see all the other badges are [here](https://www.credly.com/users/akshat-pattiwar/badges)
 
 <!--START_SECTION:badges-->
-[![Microsoft Certified: Identity and Access Administrator Associate](https://images.credly.com/size/220x220/images/9129…ty-and-access-administrator-associate-600x600.png)](https://www.credly.com/earner/earned/badge/601e22f2-a538-42a5-b9c1-39f1e229aab7)
+[![Microsoft Certified: Identity and Access Administrator Associate](https://images.credly.com/size/100x100/images/9129…ty-and-access-administrator-associate.png)](https://www.credly.com/earner/earned/badge/601e22f2-a538-42a5-b9c1-39f1e229aab7)
 
 
 ## 🏆 GitHub Trophies
