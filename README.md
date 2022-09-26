@@ -25,4 +25,3 @@ Currently working on Data Science Projects<br>Learning Cloud Computing, Data Sci
 [![](https://visitcount.itsvg.in/api?id=Akshatpattiwar512&icon=0&color=1)](https://visitcount.itsvg.in)
 
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="601e22f2-a538-42a5-b9c1-39f1e229aab7" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
