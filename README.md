@@ -12,14 +12,19 @@ Currently working on Data Science Projects<br>Learning Cloud Computing, Data Sci
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Akshatpattiwar512&theme=blue-green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshatpattiwar512&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+<h2> My Last badges <img src = "https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="50"> </h2>
+
+To see all the other badges are [here](https://www.credly.com/users/pemtajo/badges)
+
+<!--START_SECTION:badges-->
+[Microsoft Certified: Identity and Access Administrator Associate](https://www.credly.com/earner/earned/badge/601e22f2-a538-42a5-b9c1-39f1e229aab7)
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Akshatpattiwar512&theme=onestar&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Akshatpattiwar512&icon=0&color=1)](https://visitcount.itsvg.in)
