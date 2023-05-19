@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently working on Data Science Projects<br>Learning Cloud Computing, Data Science, Cybersecurity<br>Ask me anything about Python, Data Science and Cybersecurity as well as about any exam cracking preparation like Microsoft Certification.<br>Writing articles and research papers are my hobbies
+Currently working on Data Science Projects<br>Learning Cloud Computing, Data Science, Cybersecurity<br>Ask me anything about Python, Data Science, Web Development and Cybersecurity as well as about any exam cracking preparation like Microsoft Certification.<br>Writing articles and research papers are my hobbies
 
 
 ## 🌐 Socials:
